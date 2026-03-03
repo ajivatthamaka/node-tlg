@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dilongfa/node-tlg.git"
+    "url": "git+https://github.com/ajivatthamaka/node-tlg.git"
   },
   "keywords": [
     "tlg",
@@ -25,12 +25,12 @@
     "telegram-api",
     "telegram-cli"
   ],
-  "author": "DiLong Fa <dilongfa@gmail.com>",
+  "author": "Pidiel <ajivatthamaka@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dilongfa/node-tlg/issues"
+    "url": "https://github.com/ajivatthamaka/node-tlg/issues"
   },
-  "homepage": "https://github.com/dilongfa/node-tlg#readme",
+  "homepage": "https://github.com/ajivatthamaka/node-tlg#readme",
   "dependencies": {
     "ffi-napi": "2.4.4"
   }
